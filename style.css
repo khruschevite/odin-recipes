@@ -2,3 +2,8 @@
     background-color: rgb(218, 209, 194);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+img {
+    width: 500px;
+    height: auto;
+}
